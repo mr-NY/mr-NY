@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mr-NY
 - 👀 I’m interested in Frontend.
-- 🌱 I’m currently learning SCSS and JS
+- 🌱 I’m currently learning SCSS and JS and GIT
 - 💞️ I’m looking to collaborate on project with HTML, CSS, SCSS and JS.
 - 📫 You can reach me in Discord with my ID: mr-ny#6168.
 
